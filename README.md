@@ -1,4 +1,6 @@
-# `@metamask/eth-sig-util`
+# `klay-sig-util`
+
+A Forked version of eth-sig-utils which changes `signTypedData` to use klaytn.sign to sign the final product.
 
 A small collection of Ethereum signing functions.
 
@@ -8,11 +10,11 @@ You can find usage examples [here](https://github.com/metamask/test-dapp)
 
 ## Installation
 
-`yarn add @metamask/eth-sig-util`
+`yarn add klay-sig-util`
 
 or
 
-`npm install @metamask/eth-sig-util`
+`npm install klay-sig-util`
 
 ## API
 
