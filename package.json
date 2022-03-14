@@ -1,21 +1,21 @@
 {
-  "name": "@metamask/eth-sig-util",
+  "name": "klay-sig-util",
   "version": "4.0.0",
   "description": "A few useful functions for signing ethereum data",
   "keywords": [
     "ethereum",
     "signature"
   ],
-  "homepage": "https://github.com/MetaMask/eth-sig-util#readme",
+  "homepage": "https://github.com/marvinirwin/eth-sig-util#readme",
   "bugs": {
     "url": "https://github.com/MetaMask/eth-sig-util/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/eth-sig-util.git"
+    "url": "https://github.com/marvinirwin/eth-sig-util.git"
   },
   "license": "ISC",
-  "author": "Dan Finlay",
+  "author": "Marvin Irwin",
   "exports": {
     ".": "./dist/index.js",
     "./encryption": "./dist/encryption.js",
